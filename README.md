@@ -1,4 +1,4 @@
-# Ruboty::TwitterDirectMessage
+# Ruboty::TwitterDirectMessage [![Gem Version](https://badge.fury.io/rb/ruboty-twitter_direct_message.svg)](https://badge.fury.io/rb/ruboty-twitter_direct_message)
 An [Ruboty](https://github.com/r7kamura/ruboty) adapter for twitter user-stream API.
 Cloned from [r7kamura/ruboty-twitter](https://github.com/r7kamura/ruboty-twitter)
 
